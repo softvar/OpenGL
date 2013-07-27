@@ -3,10 +3,10 @@ Working with OpenGL
 
 OpenGL (Open Graphics Library) is a cross-language, multi-platform Application programming interface (API) for rendering 2D and 3D computer graphics. The API is typically used to interact with a Graphics processing unit (GPU), to achieve hardware-accelerated rendering.
 
-What for
---------
+What this is for
+----------------
 
-Great collection of useful utility programs in openGL(c++)
+Great collection of useful utility programs in openGL(c++).
 
 Installation In Ubuntu
 ----------------------
@@ -23,7 +23,7 @@ Include header files
     #include "GL/glut.h"
     #include "GL/gl.h"
 
-COmpilation
+Compilation
 -----------
 
 .. code-block:: bash
